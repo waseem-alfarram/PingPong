@@ -1,2 +1,2 @@
 # PingPong
-This is a simple Ping-Pong game made with java swing for Desktop
+I made this simple Ping-Pong using java swing for Desktop
